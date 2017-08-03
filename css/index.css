@@ -2,6 +2,7 @@ body {
   background-color: #131822;
   font: 300 0.75em/1.38 Roboto;
   color: rgba(255, 255, 255, 0.5);
+  font-family: 'Roboto', sans-serif;
 }
 
 .element {
