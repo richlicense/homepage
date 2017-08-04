@@ -26,6 +26,8 @@ body {
   margin-right: auto;
   margin-left: auto;
   overflow: hidden;
+  width : 210px;
+  margin-top:20px;
 }
 
 .text {
